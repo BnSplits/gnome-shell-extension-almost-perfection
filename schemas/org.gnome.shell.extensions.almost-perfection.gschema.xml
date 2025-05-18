@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist>
+  <schema id="org.gnome.shell.extensions.almost-perfection" path="/org/gnome/shell/extensions/almost-perfection/">
+    <key name="power-profile-notifier" type="b">
+      <default>true</default>
+      <summary>Toggle Power Profile Notifier</summary>
+      <description>Show a notification when the power profile changes.</description>
+    </key>
+
+    <key name="power-profile-indicator" type="b">
+      <default>true</default>
+      <summary>Power Profile Indicator</summary>
+      <description>Display the power profile icon in the top panel.</description>
+    </key>
+
+    <key name="power-profile-indicator-show-balanced" type="b">
+      <default>true</default>
+      <summary>Show balanced profile indicator</summary>
+      <description>Display the power profile icon even when in balanced mode</description>
+    </key>
+
+    <key name="full-screen-notifications" type="b">
+      <default>true</default>
+      <summary>Toggle notifications on fullscreen mode</summary>
+      <description>Allow notifications to appear when an application is fullscreen.</description>
+    </key>
+
+    <key name="mouse-follow-focus" type="b">
+      <default>true</default>
+      <summary>Mouse follow focus</summary>
+      <description>Move the mouse pointer to the newly focused window automatically.</description>
+    </key>
+  </schema>
+</schemalist>

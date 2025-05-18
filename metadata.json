@@ -1,0 +1,8 @@
+{
+  "name": "Almost Perfection",
+  "description": "A modular extension combining multiple tweaks",
+  "uuid": "almost-perfection@bnsplits.github.com",
+  "shell-version": ["48"],
+  "settings-schema": "org.gnome.shell.extensions.almost-perfection",
+  "version": 1
+}

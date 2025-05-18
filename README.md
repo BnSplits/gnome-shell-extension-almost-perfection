@@ -1,6 +1,6 @@
 # Almost Perfection
 
-A minimal GNOME Shell extension combining essential tweaks for better workflow.
+A minimal GNOME Shell extension combining tweaks for better workflow.
 
 **Features**:
 
